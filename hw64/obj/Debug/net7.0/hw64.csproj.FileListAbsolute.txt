@@ -1,0 +1,15 @@
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/bin/Debug/net7.0/hw64
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/bin/Debug/net7.0/hw64.deps.json
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/bin/Debug/net7.0/hw64.runtimeconfig.json
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/bin/Debug/net7.0/hw64.dll
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/bin/Debug/net7.0/hw64.pdb
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.csproj.AssemblyReference.cache
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.AssemblyInfoInputs.cache
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.AssemblyInfo.cs
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.csproj.CoreCompileInputs.cache
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.dll
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/refint/hw64.dll
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.pdb
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/hw64.genruntimeconfig.cache
+/Users/brogues/Desktop/УЧЕБА /C9/hw64/obj/Debug/net7.0/ref/hw64.dll
